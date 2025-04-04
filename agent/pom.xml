@@ -8,7 +8,7 @@
     <parent>
         <artifactId>simpleMSS</artifactId>
         <groupId>com.keven1z</groupId>
-        <version>1.0</version>
+        <version>${smss.version}</version>
     </parent>
     <artifactId>smss-agent</artifactId>
     <version>${smss.version}</version>
